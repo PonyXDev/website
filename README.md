@@ -10,6 +10,8 @@
   <img src="https://app.codacy.com/project/badge/Grade/ff917529015742d3a3c3eda2674162de" alt="Codacy code quality" />
 </p>
 
+> The design of this website was taken from clqu.live, edited and shared. Don't forget to check out Clqu's repo!
+
 > This is a Nuxt.js Fully Static website, so you can use/host it anywhere!
 
 ### 🔧 Demo?
