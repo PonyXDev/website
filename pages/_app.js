@@ -22,7 +22,7 @@ function MyApp({ Component, pageProps }) {
           <div class="mt-10 grid content-center grid-cols-1 sm:grid-cols-2 md:grid-cols-3">
             <p class="text-white text-center sm:text-left text-opacity-50">2022 © All rights reserved.</p>
             <p align="right">         </p>
-            <p align="right" class="text-white text-right sm:text-right text-opacity-50">Developed with ❤️ by PonyXDev.</p>
+            <p align="right" class="text-white text-right sm:text-right text-opacity-50">Developed with ❤️ by Clqu.</p>
           </div>
           </div>
         </div>
