@@ -63,5 +63,5 @@ $ npm run generate
 
 ### 🙏 Thanks.
 
-This website is made using [Tailwind](https://tailwindcss.com/) with 💙
+This website is made using [Clqu](https://clqu.live/) with 💙
 
