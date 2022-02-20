@@ -35,7 +35,8 @@ Website features many custom built systems, integrations and pages!
 
 ### ⚖️ License.
 
-> This code will come preinstalled on this PonyX Instance.
+> This code will come preinstalled on this PonyX - Clqu 
+Instance.
 ```
 <meta name="publisher" content="2022, Clqu" />
 <meta name="author" content="Clqu", "me@clqu.live">
