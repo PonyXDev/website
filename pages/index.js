@@ -31,7 +31,7 @@ export default function Home() {
                 </p>
                 
                     <span className="ml-2 bg-black/20 px-2 py-1 font-normal rounded-md text-sm">
-                      Back-And Developer and UI Designer
+                      Back-End Developer and UI Designer
                     </span>
                     
                 </div> 
