@@ -37,8 +37,8 @@ Website features many custom built systems, integrations and pages!
 
 > Starting from 17/02/2022, We will be requiring users to have the following code in their `index.html/meta`. This code will come preinstalled on this PonyX Instance.
 ```
-<meta name="publisher" content="2022, PonyX" />
-<meta name="author" content="PonyX", "sistem@ponyxdev.xyz">
+<meta name="publisher" content="2022, Clqu" />
+<meta name="author" content="Clqu", "me@clqu.live">
 ```
 
 Important! "Licensed with GPL-3.0 License! Please read the LICENSE.md before distribution!"
