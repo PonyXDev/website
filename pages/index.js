@@ -36,7 +36,7 @@ export default function Home() {
                     
                 </div> 
                 <p className="text-white/50 text-neutral-500">&nbsp;&nbsp;
-                Hello, I'm PonyX. I'm a self-taught UI and Back-And developer. Founder of Magnet Community and developer of Wolf Partner bot. If you want to get to know me more, 
+                Hello, I'm PonyX. I'm a self-taught UI and Back-End developer. Founder of Magnet Community and developer of Wolf Partner bot. If you want to get to know me more, 
                 be sure to check out my Discord server or github!
                 </p>
               </div>
